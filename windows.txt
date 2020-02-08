@@ -1,0 +1,9 @@
+/Windows/system32/drivers/etc/hosts
+/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Bookmarks
+/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Cookies
+/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/History
+/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Preferences
+/Users/Administrator/AppData/Local/Google/Chrome/User Data/Login State
+/Users/Administrator/AppData/Local/Microsoft/Vault/UserProfileRoaming/Latest.dat
+/Users/Administrator/Desktop/desktop.ini
+/Users/Administrator/Desktop/Documents/desktop.ini
